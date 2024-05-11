@@ -1,4 +1,3 @@
-https://github.com/qasidmubashir/qasidmubashir/assets/106903306/14d51528-d58d-4a57-89ec-5ce1c0109a0e
 
 <h1 align="center">Hi, I'm Mubashir Hassan</h1>
 <h3 align="center">A passionate Programmer.</h3>
